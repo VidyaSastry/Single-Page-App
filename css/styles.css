@@ -1,5 +1,9 @@
 h1 {
-    color: brown;
+    color: wheat;
+    background-color:chocolate;
+    padding: 20px;
+    height: 100px;
+    text-align: center;
 }
 
 h2 {
